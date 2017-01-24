@@ -1,4 +1,3 @@
-# data_science
-data science projects
-* branch_1 crick_info_analyasis
-* branch_2 chicago-taxi-data_analyasis
+#amazon_india_phone_analyasis
+
+##purpose of this project is to determine top 10 cellphone in each brands available on amazon india
